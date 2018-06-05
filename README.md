@@ -3,8 +3,10 @@ MS3 Skills Challenge
 
 ---INSTRUCTIONS---
 To compile and execute the application, run the commands:
+```
 	javac MS3Challenge.java
 	java -classpath ".;sqlite-jdbc-3.7.2.jar" MS3Challenge
+```
 
 It will prompt you to enter a file name.  Make sure the file is in the same directory as the program.
 
